@@ -5,12 +5,9 @@ navigation_menu_title: Turnier - Tabelle
 weight: 3
 header_menu: true
 ---
-\| Teams | Logo | Punkte |  usw |   |
 
-\|---|---|---|---|---|
-
-\|   |   |   |   |   |
-
-\|   |   |   |   |   |
-
-\|   |   |   |   |   |
+| Platz | Team  | Punkte |
+|---|---                        |---|
+| 1 | KSG Zwietracht Wipperdorf | 1 |
+| - | Kehmstedt                 | 0 |
+| - | Wollersleben              | 0 |
