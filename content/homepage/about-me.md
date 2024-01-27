@@ -1,5 +1,5 @@
 ---
-title: About Me, you and others
+title: About Me
 weight: 3
 header_menu: true
 date: 2024-01-26T22:29:38.793Z
