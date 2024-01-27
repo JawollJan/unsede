@@ -1,10 +1,11 @@
 {{ define "main" }}
 {{ $headless := .Site.GetPage "/homepage" }}
+
 {{ $sections := $headless.Resources.ByType "page" }}
 {{ $sections := cond .Site.BuildDrafts $sections (where $sections "Draft" "==" false) }}
 {{ $content := where (where $sections "Params.external" "==" nil) "Params.detailed_page_homepage_content" "ne" false }}
 
-<header id="site-head" class="withCenteredImage" {{ with .Params.header_image }}style="background-image: url({{ . }}); height: 40% !important;"{{ end }}>
+<header id="site-head" class="withCenteredImage" {{ with .Params.header_image }}style="background-image: url({{ . }}); height: 50% !important;"{{ end }}>
     <div class="vertical" >
 
         <div id="site-head-content" class="inner">
@@ -51,8 +52,10 @@
         {{ end }}
     </div>
 
+
     <!-- Render single-page content -->
     {{ range $index_val, $elem_val := $content }}
+    
         {{ if .Title }}
         {{ $fnav_title := .Title }}{{ with .Params.navigation_menu_title }}{{ $fnav_title = . }}{{ end }}
 
