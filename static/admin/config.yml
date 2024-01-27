@@ -1,8 +1,8 @@
-local_backend: true
+#local_backend: true
 
 backend:
   name: git-gateway
-  branch: basic_setup # Branch to update (optional; defaults to master)
+  branch: Sommerfest
 media_folder: static/images
 public_folder: /images
 collections:
