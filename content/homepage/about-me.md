@@ -1,7 +1,9 @@
 ---
-title: "About Me"
+title: About Me, you and others
 weight: 3
 header_menu: true
+date: 2024-01-26T22:29:38.793Z
+description: "1"
 ---
 
 ![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)

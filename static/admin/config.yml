@@ -1,0 +1,25 @@
+local_backend: true
+
+backend:
+  name: git-gateway
+  branch: basic_setup-cms # Branch to update (optional; defaults to master)
+media_folder: static/images
+public_folder: /images
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/homepage'
+    create: true
+    slug: '{{slug}}'
+    preview_path: blog/{{slug}}
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Header Menu Title', name: 'header_menu_title', widget: 'string', required: false }
+      - { label: 'Navigation Menu Title', name: 'navigation_menu_title', widget: 'string',required: false }
+      - { label: 'Weight', name: 'weight', widget: 'number', required: false  }
+      - { label: 'Show in Header Menu', name: 'header_menu', widget: 'boolean', required: false  }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+
