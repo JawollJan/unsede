@@ -21,5 +21,16 @@ collections:
       - { label: 'Weight', name: 'weight', widget: 'number', required: false  }
       - { label: 'Show in Header Menu', name: 'header_menu', widget: 'boolean', required: false  }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
-
+  - name: 'header'
+    label: 'Header'
+    folder: 'content/'
+    create: true
+    slug: '{{slug}}'
+    preview_path: header/{{slug}}
+    editor:
+      preview: true
+    fields:
+      - { label: 'Header Title', name: 'header_headline', widget: 'string' }
+      - { label: 'Header Sub-Title', name: 'header_subheadline', widget: 'string', required: false }
+      - { label: 'header_image', name: 'header_image', widget: 'image', required: false }
+      - { label: 'header_logo', name: 'header_logo', widget: 'image', required: false }
