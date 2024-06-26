@@ -4,7 +4,7 @@ header_menu_title: Turnier - Tabelle
 navigation_menu_title: Turnier - Tabelle
 weight: 3
 header_menu: true
-show: false
+show: true
 ---
 
 | Platz | Team  | Punkte |
