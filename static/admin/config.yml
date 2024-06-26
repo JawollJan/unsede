@@ -17,6 +17,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Header Menu Title', name: 'header_menu_title', widget: 'string', required: false }
+      - { label: 'Show online', name: 'show', widget: 'boolean', required: true }
       - { label: 'Navigation Menu Title', name: 'navigation_menu_title', widget: 'string',required: false }
       - { label: 'Weight', name: 'weight', widget: 'number', required: false  }
       - { label: 'Show in Header Menu', name: 'header_menu', widget: 'boolean', required: false  }
