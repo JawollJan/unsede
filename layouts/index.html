@@ -15,15 +15,16 @@
               {{ with .Params.header_headline }}<h1 class="blog-title">{{ . | safeHTML }}</h1>{{ end }}
               {{ with .Params.header_subheadline }}<h2 class="blog-description">{{ . | safeHTML }}</h2>{{ end }}
             {{ if .Site.Params.title_guard }}</div>{{ end }}
-
+            
+            <div>
             {{ range where $sections ".Params.header_menu" "eq" true }}
-              {{ $button_title := .Title }}
-              {{ with .Params.header_menu_title }}{{ $button_title = . }}{{ end }}
-
+            {{ $button_title := .Title }}
+            {{ with .Params.header_menu_title }}{{ $button_title = . }}{{ end }}
+   
             {{ $fnav_title := .Title }}{{ with .Params.navigation_menu_title }}{{ $fnav_title = . }}{{ end }}
                 <a class='btn site-menu' data-title-anchor='{{ anchorize $fnav_title }}' href='#{{ anchorize $fnav_title }}'>{{ $button_title }}</a>
-              
             {{ end }}
+            </div>
         </div>
     </div>
 </header>
