@@ -43,7 +43,117 @@
                             <h2 class="post-title">{{ .Title | safeHTML }}</h2>
                         </header>
                         <section class="post-content">
-                            {{ .Content }}
+                            {{ if not .Params.Tree }}
+                                {{ .Content }}
+                            {{ else }} 
+                            <div class="wrapper">
+                                <div class="item">
+
+                                  <div class="item-parent">
+                                    <p>Winner</p>
+                                  </div>
+
+                                  <div class="item-childrens">
+                                    <div class="item-child">
+                                      <div class="item">
+
+                                        <div class="item-parent">
+                                          <p>Halb 1</p>
+                                        </div>
+
+                                        <div class="item-childrens">
+                                          <div class="item-child">
+                                            <div class="item">
+
+                                              <div class="item-parent">
+                                                <p>Viertel 1</p>
+                                              </div>
+
+                                              <div class="item-childrens">
+                                                <div class="item-child">
+                                                  <p>Achtel 1</p>
+                                                </div>
+                                                <div class="item-child">
+                                                  <p>Achtel 2</p>
+                                                </div>
+                                              </div>
+                                            </div>
+
+                                          </div>
+                                          <div class="item-child">
+                                            <div class="item">
+
+                                                <div class="item-parent">
+                                                  <p>Viertel 1</p>
+                                                </div>
+  
+                                                <div class="item-childrens">
+                                                  <div class="item-child">
+                                                    <p>Achtel 1</p>
+                                                  </div>
+                                                  <div class="item-child">
+                                                    <p>Achtel 2</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+  
+                                          </div>
+                                          
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="item-child">
+                                        <div class="item">
+  
+                                          <div class="item-parent">
+                                            <p>Halb 1</p>
+                                          </div>
+  
+                                          <div class="item-childrens">
+                                            <div class="item-child">
+                                              <div class="item">
+  
+                                                <div class="item-parent">
+                                                  <p>Viertel 1</p>
+                                                </div>
+  
+                                                <div class="item-childrens">
+                                                  <div class="item-child">
+                                                    <p>Achtel 1</p>
+                                                  </div>
+                                                  <div class="item-child">
+                                                    <p>Achtel 2</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+  
+                                            </div>
+                                            <div class="item-child">
+                                              <div class="item">
+  
+                                                  <div class="item-parent">
+                                                    <p>Viertel 1</p>
+                                                  </div>
+    
+                                                  <div class="item-childrens">
+                                                    <div class="item-child">
+                                                      <p>Achtel 1</p>
+                                                    </div>
+                                                    <div class="item-child">
+                                                      <p>Achtel 2</p>
+                                                    </div>
+                                                  </div>
+                                                </div>
+    
+                                            </div>
+                                            
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </div>
+                                </div>
+                              </div>
+                            {{ end }}
                         </section>
                     </article>
                 </div>
