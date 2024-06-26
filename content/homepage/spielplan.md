@@ -1,10 +1,10 @@
 ---
 title: Spielplan
 header_menu_title: Turnier - Spielplan
+show: true
 navigation_menu_title: Turnier - Spielplan
 weight: 4
 header_menu: true
-show: false
 ---
 | Startzeit | Team 1         | Team 2       | Ergebnis     |
 | --------- | -------------- | ------------ | ------------ |
