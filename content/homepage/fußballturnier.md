@@ -12,7 +12,7 @@ header_menu: true
 ##### Sonderpreise
 Beste Anreise \
 Bestes Gruppen-Outfit \
-Beste Fangemeinde \
+Beste Fangemeinde
 
 ##### Der Trommelpreis
 Für die Mannschaft, die die meisten Biertrommeln getrunken hat!
