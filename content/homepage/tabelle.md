@@ -10,6 +10,11 @@ show: true
 
 | Platz | Team  | Punkte |
 |---|---                        |---|
-| 1 | KSG Zwietracht Wipperdorf | 1 |
-| - | Kehmstedt                 | 0 |
-| - | Wollersleben              | 0 |
+| - | Team 1 | 0 |
+| - | Team 2 | 0 |
+| - | Team 3 | 0 |
+| - | Team 4 | 0 |
+| - | Team 5 | 0 |
+| - | Team 6 | 0 |
+| - | Team 7 | 0 |
+| - | Team 8 | 0 |

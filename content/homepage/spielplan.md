@@ -8,6 +8,7 @@ header_menu: true
 ---
 | Startzeit | Team 1         | Team 2       | Ergebnis     |
 | --------- | -------------- | ------------ | ------------ |
-| 11:00 Uhr | KSG Zwietracht | Wollersleben | 1:0          |
-| 11:30 Uhr | KSG Zwietracht | Kehmstedt    | läuft gerade |
-| 12:00 Uhr | Wollersleben   | Kehmstedt    | \-           |
+| - | Team 1 | Team 2 | \- |
+| - | Team 3 | Team 4 | \- |
+| - | Team 5 | Team 6 | \- |
+| - | Team 7 | Team 8 | \- |
