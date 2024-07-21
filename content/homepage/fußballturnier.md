@@ -7,7 +7,8 @@ header_menu: true
 **Treffen:** 10:00 Uhr \
 **Turnierstart:** 11:00 Uhr \
 **Spielform:** 5 Feldspieler &
-1 Torhüter nach Kleinfeldregeln
+1 Torhüter nach Kleinfeldregeln \
+**Spielzeit:** 10 min
 
 ##### Sonderpreise
 Beste Anreise \
