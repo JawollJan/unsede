@@ -13,7 +13,7 @@ header_menu: true
 
 | Startzeit * | Spiel | Team 1         | Team 2       | Ergebnis     |
 | ----------- | ----------- |-------------- | ------------ | ------------ |
-| 11:15 | **Spiel 1** | Kirmes Rüxleben | SSV Blau Weiß Wollersleben | \- |
+| 11:15 | **Spiel 1** | Kirmes Rüxleben | SSV Blau Weiß Wollersleben | 0:2 |
 | 11:30 | **Spiel 2** | KSG Zwietracht | Kirmesgesellschaft GWC | \- |
 | 11:45 | **Spiel 3** | SG Leimbach | KKB | \- |
 | 12:00 | **Spiel 4** | Kirmesgesellschaft GWC | Kirmes Rüxleben | \- |
