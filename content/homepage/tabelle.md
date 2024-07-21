@@ -15,6 +15,6 @@ show: true
 | 2 | KSG Zwietracht | 3 |
 | 1 | SSV Blau Weiß Wollersleben | 6 |
 | 3 | SG Leimbach | 0 |
-| 2 | KKB | 3 |
+| 1 | KKB | 6 |
 
 
