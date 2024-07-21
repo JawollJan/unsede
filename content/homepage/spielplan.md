@@ -20,7 +20,7 @@ header_menu: true
 | 12:10 | **Spiel 5** | SSV Blau Weiß Wollersleben | SG Leimbach | 3:0 |
 | 12:35 | **Spiel 6** | KSG Zwietracht | KKB | 0:2 |
 | 12:40 | **Spiel 7** | SG Leimbach | Kirmes Rüxleben | 2:2 |
-| 12:55 | **Spiel 8** | SSV Blau Weiß Wollersleben | KKB | \- |
+| 12:55 | **Spiel 8** | SSV Blau Weiß Wollersleben | KKB | 1:1 |
 | 13:25 | **Spiel 9** | KSG Zwietracht | SG Leimbach | \- |
 | 13:40 | **Spiel 10** | KKB | Kirmesgesellschaft GWC | \- |
 | 13:55 | **Spiel 11** | Kirmes Rüxleben | KSG Zwietracht | \- |
