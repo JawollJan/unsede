@@ -13,7 +13,7 @@ show: true
 | - | Kirmesgesellschaft GWC | 0 |
 | - | Kirmes Rüxleben | 0 |
 | - | KSG Zwietracht | 0 |
-| - | SSV Blau Weiß Wollersleben | 0 |
+| 1 | SSV Blau Weiß Wollersleben | 3 |
 | - | SG Leimbach | 0 |
 | - | KKB | 0 |
 
