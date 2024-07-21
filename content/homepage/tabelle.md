@@ -11,10 +11,10 @@ show: true
 | Platz | Team  | Punkte |
 |---|---                        |---|
 | 6 | Kirmesgesellschaft GWC | 0 |
-| 3 | Kirmes Rüxleben | 4 |
-| 4 | KSG Zwietracht | 3 |
-| 1 | SSV Blau Weiß Wollersleben | 6 |
+| 4 | Kirmes Rüxleben | 4 |
+| 3 | KSG Zwietracht | 6 |
+| 1 | SSV Blau Weiß Wollersleben | 7 |
 | 5 | SG Leimbach | 1 |
-| 1 | KKB | 6 |
+| 1 | KKB | 7 |
 
 
