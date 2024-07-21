@@ -14,5 +14,5 @@ show: true
 | 4 | Kirmes Rüxleben | 5 |
 | 2 | KSG Zwietracht | 7 |
 | 2 | SSV Blau Weiß Wollersleben | 7 |
-| 5 | SG Leimbach | 1 |
-| 1 | KKB | 10 |
+| 5 | SG Leimbach | 4 |
+| 1 | KKB | 13 |
